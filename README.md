@@ -1,1 +1,4 @@
-# circuitadvisor
+# circut advisor
+
+**소개**</br>
+핸드폰을 이용하여 서킷 주행을 즐기는 사람들에게 도움을 준다.
